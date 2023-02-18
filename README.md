@@ -29,7 +29,7 @@ Here are the side projects I worked on during my learning period of stanCode SC1
   - Organized complex text file downloaded from "American official website of the Social Security Administration"database. Group the data by years and the frequency of occurrence using Python nested dictionary data structure.  
 To improve user experience, I designed GUI for searching baby name ranking in each decade on Python canvas
   - [Source Code](https://github.com/MichaelLTsai/StanCodeProjects/blob/b78d169ed587376e7071dc8928099789be45786a/Stan_Code_Projects/4_babyname_analytics_system/babygraphics.py)
-  - [Demo video](https://youtu.be/fm0iafZSWuM)
+  - [Demo video](https://youtu.be/JLYyGeU2Z5A)
   
 - Anagram Puzzle Solver
   - Recursion Algorithm
